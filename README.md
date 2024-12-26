@@ -1,4 +1,6 @@
 # FlowLearner
+A Chrome Extension to summarize webpage content and generate images accordingly.
+
 # Webpage Summarizer Chrome Extension
 
 A lightweight Chrome extension that uses the Hugging Face API to summarize the entire text content of a webpage. This tool provides concise and accurate summaries, helping users quickly grasp the main ideas of lengthy web content.
