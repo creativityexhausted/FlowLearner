@@ -24,9 +24,3 @@ A lightweight Chrome extension that uses the Hugging Face API to summarize the e
 
 ---
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/webpage-summarizer-extension.git
-   cd webpage-summarizer-extension
